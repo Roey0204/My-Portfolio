@@ -8,6 +8,6 @@ Throughout the years, I have developed a strong foundation through participate s
 
 In my free time, I enjoy to exploring new data analysis tools and techniques. I am always looking for opportunities to expand my knowledge and skills in software/data relevant whether from working at daily job or independently
 
-My CV in [pdf]
+My CV in [pdf](https://github.com/Roey0204/My-Portfolio/blob/main/RoeyCV.pdf)
 
 This is a repository to showcase skills, share projects and track my progress in software / Data Science related topics.
