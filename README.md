@@ -11,3 +11,47 @@ In my free time, I enjoy to exploring new data analysis tools and techniques. I 
 My CV in [pdf](https://github.com/Roey0204/My-Portfolio/blob/main/RoeyCV.pdf)
 
 This is a repository to showcase skills, share projects and track my progress in software / Data Science related topics.
+
+# Table of Contents
+
+## Python
+
+### Data Modelling/Analysis module
+- Covid 19 Data exploration Analysis
+[link]
+- Healthcare Disparities and Data Analysis
+[link]
+- Climate Change and Environmental Data Analysis
+[link]
+
+### Machine Learning Model
+- Topic 1
+[link]
+
+- Topic 2
+[link]
+
+### Test Software / Internet of things
+- Ambient Temperature and pressure logger Raspberry Pi data Logger via MQTT
+[link]
+
+### Graphical User Interface
+- Develop UI screen dashboard to demonstrate product behavior
+
+### Develop REST API
+- Topic 1
+- Topic 2
+
+## .net C#
+
+### Test Software / Internet of things
+- Serial Port communication with Arduino for data acquicision
+[link]
+
+### Develop REST API
+- Topic 1
+[link]
+
+### Data Modelling integration with SQL
+- Topic 1
+[link]
