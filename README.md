@@ -19,9 +19,7 @@ This is a repository to showcase skills, share projects and track my progress in
 ### Data Modelling/Analysis module
 - Covid 19 Data exploration Analysis
 [link]
-- Healthcare Disparities and Data Analysis
-[link]
-- Climate Change and Environmental Data Analysis
+- Video Games Sales
 [link]
 
 ### Machine Learning Model
@@ -31,8 +29,8 @@ This is a repository to showcase skills, share projects and track my progress in
 - Topic 2
 [link]
 
-### Test Software / Internet of things
-- Ambient Temperature and pressure logger Raspberry Pi data Logger via MQTT
+### Internet of things
+- Ambient Temperature and pressure logger Raspberry Pi data Logger
 [link]
 
 ### Graphical User Interface
@@ -44,7 +42,7 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## .net C#
 
-### Test Software / Internet of things
+### Test Software
 - Serial Port communication with Arduino for data acquicision
 [link]
 
