@@ -19,8 +19,8 @@ This is a repository to showcase skills, share projects and track my progress in
 ### Data Modelling/Analysis module
 - Covid 19 Data exploration Analysis
 [link]
-- Video Games Sales
-[link]
+- [Video Games Sales](https://github.com/Roey0204/VideoGames_Sales)
+
 
 ### Machine Learning Model
 - Topic 1
@@ -30,17 +30,11 @@ This is a repository to showcase skills, share projects and track my progress in
 [link]
 
 ### Internet of things
-- Ambient Temperature and pressure logger Raspberry Pi data Logger
-[link]
+- [Ambient Temperature and pressure logger Raspberry Pi data Logger](https://github.com/Roey0204/Internet-of-things)
 
-### Graphical User Interface
-- Develop UI screen dashboard to demonstrate product behavior
 
 ### Develop Full Stack Proof of concept
-- Movie Survey Form
-- [GitHub](https://github.com "Visit GitHub")
-  [Link Text]https://github.com/Roey0204/Movie-Survey-Form-App
-
+- [Movie Survey Form](https://github.com/Roey0204/Movie-Survey-Form-App)
 
 ## .net C#
 
