@@ -33,7 +33,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Ambient Temperature and pressure logger Raspberry Pi data Logger](https://github.com/Roey0204/Internet-of-things)
 
 
-### Develop Full Stack Proof of concept
+### Develop Full Stack Web Concept (Create own End Point)
 - [Movie Survey Form](https://github.com/Roey0204/Movie-Survey-Form-App)
 
 ## .net C#
