@@ -2,7 +2,21 @@
 ## About
 Hi, I'm Roey! I have a background from Electronic in Bachelor Degree and now on track to completing my Master in computer science. 
 
-During my studies, I figure out that I have very great passion on writing code and fortunately can join MNC company as UI-UX Engineer and Test Software Engineer.
+During my studies, I figure out that I have very great passion on writing code.End of the year, I decide to move forward for the final year project in FPGA. 
+The objective on researching FPGA is to develop my understand on:
+
+i) Digital Logic Design: Understanding how to design digital circuits using Verilog or VHDL, including combinational and sequential logic, finite state machines, and other digital components.
+
+ii) FPGA Architecture and Tools: Familiarizing yourself with the architecture of the FPGA you are using, as well as the development tools provided by the FPGA vendor (e.g.Intel Quartus Prime). This includes understanding synthesis, place and route, and timing analysis.
+
+iii) Hardware Description Languages (HDLs): Learning Verilog or VHDL to describe the behavior and structure of digital circuits. This involves understanding the syntax, semantics, and best practices for writing HDL code.
+
+iv) Embedded Systems: Integrating soft or hard processors into FPGA designs, designing interfaces with peripherals, and understanding how to program and debug embedded systems on FPGAs.
+
+For more details on the final year project can refer to the PDF below.
+[pdf] FPGA UART controller using Altera Cyclone IV
+
+After graduated, I join MNC company as UI-UX Engineer(2 years) and Test Software Engineer(2 Years).
 
 Throughout the years, I have developed a strong foundation through participate some project to build fundamental on object-oriented programming, microcontroller programming, data acquisition, data modeling, Internet of things, machine learning etc.
 
@@ -21,31 +35,17 @@ This is a repository to showcase skills, share projects and track my progress in
 [link]
 - [Video Games Sales](https://github.com/Roey0204/VideoGames_Sales)
 
-
 ### Machine Learning Model
-- Topic 1
-[link]
-
-- Topic 2
-[link]
+- In Progess
 
 ### Internet of things
 - [Ambient Temperature and pressure logger Raspberry Pi data Logger](https://github.com/Roey0204/Internet-of-things)
 
-
 ### Develop Full Stack Web Concept (Create own End Point)
 - [Movie Survey Form](https://github.com/Roey0204/Movie-Survey-Form-App)
 
-## .net C#
+# C/C++ Programming
 
-### Test Software
-- Serial Port communication with Arduino for data acquicision
-[link]
+### RTOS to perform data acquisition using 
+-[ESP32 via I2C and Http protocol](link)
 
-### Develop REST API
-- Topic 1
-[link]
-
-### Data Modelling integration with SQL
-- Topic 1
-[link]
