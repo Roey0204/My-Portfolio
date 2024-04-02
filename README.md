@@ -7,7 +7,7 @@ The objective on researching FPGA is to develop my understand on:
 
 i) Digital Logic Design: Understanding how to design digital circuits using Verilog or VHDL, including combinational and sequential logic, finite state machines, and other digital components.
 
-ii) FPGA Architecture and Tools: Familiarizing yourself with the architecture of the FPGA you are using, as well as the development tools provided by the FPGA vendor (e.g.Intel Quartus Prime). This includes understanding synthesis, place and route, and timing analysis.
+ii) FPGA Architecture and Tools: Familiarizing myself with the architecture of the FPGA i am using, as well as the development tools provided by the FPGA vendor (e.g.Intel Quartus Prime). This includes understanding synthesis, place and route, and timing analysis.
 
 iii) Hardware Description Languages (HDLs): Learning Verilog or VHDL to describe the behavior and structure of digital circuits. This involves understanding the syntax, semantics, and best practices for writing HDL code.
 
