@@ -48,5 +48,5 @@ This is a repository to showcase skills, share projects and track my progress in
 # C/C++
 
 ### RTOS to perform data acquisition using 
--[ESP32 via I2C and Http protocol](link)
+-[ESP32 via I2C and Http protocol]((https://github.com/Roey0204/RTOS-data-acquisition)
 
