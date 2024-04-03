@@ -17,7 +17,7 @@ For more details on the final year project can refer to the PDF below.
 [pdf] FPGA UART controller using Altera Cyclone IV.
 - [Final Year Project](https://github.com/Roey0204/FPGA-Controller)
 
-After graduated, I join MNC company as UI-UX Engineer (2 years) and Test Software Engineer (2 Years).
+After graduated, I join MNC company as UI-UX Engineer (2 years) and join Mechatronic System team to support Software relevant task (2 Years).
 
 Throughout the years, I have developed a strong foundation through participate some project to build fundamental on object-oriented programming, microcontroller programming, data acquisition, data modeling, Internet of things, machine learning etc.
 
@@ -32,8 +32,6 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Python
 
 ### Data Modelling/Analysis module
-- Covid 19 Data exploration Analysis
-[link]
 - [Video Games Sales](https://github.com/Roey0204/VideoGames_Sales)
 
 ### Machine Learning Model
