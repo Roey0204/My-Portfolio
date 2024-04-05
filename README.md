@@ -46,5 +46,5 @@ This is a repository to showcase skills, share projects and track my progress in
 ## C/C++
 
 ### Sensor data acquisition Module aka RTOS
-- [ESP32 via I2C and Http protocol](https://github.com/Roey0204/RTOS-data-acquisition)
+- [ESP32 DHT11 Sensor Data Publishing with MQTT and FreeRTOS](https://github.com/Roey0204/RTOS-data-acquisition)
 
