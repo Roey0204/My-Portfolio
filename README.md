@@ -36,7 +36,7 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Python
 
 ### Data Modelling/Analysis module
-- [Video Games Sales](https://github.com/Roey0204/VideoGames_Sales)
+- [Video Games Sales](https://github.com/Roey0204/VideoGames_Sales) - building stage
 
 ### Machine Learning Model
 - In Progess
