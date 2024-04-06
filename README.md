@@ -14,8 +14,8 @@ iii) Hardware Description Languages (HDLs): Learning Verilog or VHDL to describe
 iv) Embedded Systems: Integrating soft or hard processors into FPGA designs, designing interfaces with peripherals, and understanding how to program and debug embedded systems on FPGAs.
 
 For more details on the final year project can refer to the PDF below.
-[pdf] FPGA UART controller using Altera Cyclone IV.
-- [Final Year Project](https://github.com/Roey0204/FPGA-Controller)
+
+- [FPGA UART controller using Altera Cyclone IV](https://github.com/Roey0204/FPGA-Controller)
 
 After graduated, I join MNC company as UI-UX Engineer (2 years) and join Mechatronic System team to support Software relevant task (2 Years).
 
