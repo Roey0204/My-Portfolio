@@ -1,5 +1,5 @@
 # My Portfolio
-## About
+## About Me
 Hi, I'm Roey! I have a background from Electronic in Bachelor Degree and now on track to completing my Master in computer science. 
 
 During my studies, I figure out that I have very great passion on writing code.End of the year, I decide to move forward for the final year project in FPGA. 
