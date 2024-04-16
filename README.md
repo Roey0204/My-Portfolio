@@ -2,7 +2,7 @@
 ## About Me
 
 <div style="text-align:center;">
-    <img src="https://github.com/Roey0204/My-Portfolio/blob/main/img/myphoto.png" width="600" height="272">
+    <img src="https://github.com/Roey0204/My-Portfolio/blob/main/img/myphoto.png" width="500" height="227">
 </div>
 ======================================================================================
 
