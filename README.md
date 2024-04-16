@@ -2,7 +2,7 @@
 ## About Me
 
 <img src="https://github.com/Roey0204/My-Portfolio/blob/main/img/myphoto.png" width ="600" height="272" > 
-===================================================================================================================================
+=========================================================================================================
 Hi, I'm Roey! I have a background from Electronic in Bachelor Degree and now on track to completing my Master in computer science. 
 
 During my studies, I discovered that I have a great passion for technology,especially software-related field.The most significant impact came during coding lesson,where I felt like I was performing some kind of magic,being able to communicate with computers and create fastastic application like microcontroller,websites and graphical user interface Apps. 
