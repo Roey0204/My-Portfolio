@@ -15,9 +15,7 @@ i) Digital Logic Design: Understanding how to design digital circuits using Veri
 
 ii) FPGA Architecture and Tools: Familiarizing myself with the architecture of the FPGA i am using, as well as the development tools provided by the FPGA vendor (e.g.Intel Quartus Prime). This includes understanding synthesis, place and route, and timing analysis.
 
-iii) Hardware Description Languages (HDLs): Learning Verilog or VHDL to describe the behavior and structure of digital circuits. This involves understanding the syntax, semantics, and best practices for writing HDL code.
-
-iv) Embedded Systems: Integrating soft or hard processors into FPGA designs, designing interfaces with peripherals, and understanding how to program and debug embedded systems on FPGAs.
+iii) Embedded Systems: Integrating soft or hard processors into FPGA designs, designing interfaces with peripherals, and understanding how to program and debug embedded systems on FPGAs.
 
 For more details on the final year project can refer to the Repository below.
 
