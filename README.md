@@ -40,7 +40,7 @@ This is a repository to showcase skills, share projects and track my progress in
 ## Python
 
 ### Data Analysis module
-- [Video Games Sales](https://github.com/Roey0204/VideoGames_Sales) - building stage
+- [Video Games Sales](https://github.com/Roey0204/VideoGames_Sales) 
 
 ### Machine Learning Model
 - In Progess
