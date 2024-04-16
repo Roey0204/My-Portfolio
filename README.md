@@ -1,7 +1,7 @@
 # My Portfolio
 ## About Me
 
-<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/Roey0204/My-Portfolio/blob/main/img/myphoto.png" width="500" height="227">
 
 ======================================================================================
