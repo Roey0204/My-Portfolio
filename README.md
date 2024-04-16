@@ -4,8 +4,9 @@
 <img src="https://github.com/Roey0204/My-Portfolio/blob/main/img/myphoto.png" width ="600" height="272" >
 Hi, I'm Roey! I have a background from Electronic in Bachelor Degree and now on track to completing my Master in computer science. 
 
-During my studies, I figure out that I have very great passion on writing code.End of the year, I decide to move forward for the final year project in FPGA. 
-The objective on researching FPGA is to develop my understand on:
+During my studies, I discovered that I have a great passion for technology,especially software-related field.The most significant impact came during coding lesson,where I felt like I was performing some kind of magic,being able to communicate with computers and create fastastic application like microcontroller,websites and graphical user interface Apps. 
+
+In my final year, I chose to delve deeper by undertaking a project in FPGA because I wanted to gain a better understanding of the interface between software and hardware such as:
 
 i) Digital Logic Design: Understanding how to design digital circuits using Verilog or VHDL, including combinational and sequential logic, finite state machines, and other digital components.
 
