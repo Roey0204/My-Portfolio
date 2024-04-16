@@ -48,7 +48,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - In Progess
 
 ### Internet of things
-- [Ambient Temperature and Humidity Raspberry Pi data Logger](https://github.com/Roey0204/Internet-of-things)
+- [Ambient Temperature and Humidity Raspberry Pi data Logger + MongoDb](https://github.com/Roey0204/Internet-of-things)
 
 ### Develop Full Stack Web Concept (REST API)
 - [Movie Survey Form](https://github.com/Roey0204/Movie-Survey-Form-App)
