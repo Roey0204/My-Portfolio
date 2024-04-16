@@ -3,8 +3,7 @@
 ===========================================================================
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/Roey0204/My-Portfolio/blob/main/img/myphoto.png" width="500" height="227">
-
-===========================================================================
+---------------------------------------------------------------------------
 
 Hi, I'm Roey! I have a background from Electronic in Bachelor Degree and now on track to completing my Master in computer science. 
 
