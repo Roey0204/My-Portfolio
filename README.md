@@ -1,7 +1,7 @@
 # My Portfolio
 ## About Me
 
-<img src="https://github.com/Roey0204/My-Portfolio/blob/main/img/myphoto.png" width ="350" height="400" >
+<img src="https://github.com/Roey0204/My-Portfolio/blob/main/img/myphoto.png" width ="200" height="220" >
 Hi, I'm Roey! I have a background from Electronic in Bachelor Degree and now on track to completing my Master in computer science. 
 
 During my studies, I figure out that I have very great passion on writing code.End of the year, I decide to move forward for the final year project in FPGA. 
