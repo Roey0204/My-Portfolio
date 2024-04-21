@@ -44,7 +44,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Video Games Sales](https://github.com/Roey0204/VideoGames_Sales) 
 
 ### Machine Learning Model
-- In Progess
+- [Diabetes Data Analysis And Prediction Model](https://github.com/Roey0204/Diabetes-Analysis-and-Prediction-Model)  
 
 ### Internet of things
 - [Ambient Temperature and Humidity Raspberry Pi data Logger + MongoDb](https://github.com/Roey0204/Internet-of-things)
