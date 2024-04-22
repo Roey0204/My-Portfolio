@@ -26,11 +26,11 @@ After graduated, I join MNC company as UI-UX Engineer (2 years) and join Mechatr
 Throughout the years, I have developed a strong foundation through participate some project to build fundamental on object-oriented programming, microcontroller programming, data acquisition, data modeling, Internet of things, machine learning etc.
 
 ### For more details can refer to the CV below:<br>
-- My CV in [pdf](https://github.com/Roey0204/My-Portfolio/blob/main/RoeyCV.pdf)
+- [My Resume](https://github.com/Roey0204/My-Portfolio/blob/main/RoeyCV.pdf)
 
 In my free time, I enjoy to exploring new data analysis tools and techniques. I am always looking for opportunities to expand my knowledge and skills in software/data relevant whether from working at daily job or independently
 
-### My Skillset more focusing on backend relevant:
+### My Skillset more focusing on:
 
 <img src="https://github.com/Roey0204/My-Portfolio/blob/main/img/profile.png" alt="Image1" width ="700" height= "412">
 
