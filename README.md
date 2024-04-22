@@ -54,9 +54,9 @@ This is a repository to showcase skills, share projects and track my progress in
 
 ## C/C++
 
-### Sensor data acquisition Module aka RTOS
+### Sensor data acquisition Module with RTOS
 - [ESP32 DHT11 Sensor Data Publishing with MQTT and FreeRTOS](https://github.com/Roey0204/RTOS-data-acquisition)
 
-### Wireless Connection using ESP32
+### Wireless Connection using ESP32 with Ntp protocol
 - [Data Acquisition Module via ESP-NOW](https://github.com/Roey0204/ESP32-Wireless-Connection)
 
