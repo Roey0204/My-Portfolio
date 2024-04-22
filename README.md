@@ -56,5 +56,5 @@ This is a repository to showcase skills, share projects and track my progress in
 - [ESP32 DHT11 Sensor Data Publishing with MQTT and FreeRTOS](https://github.com/Roey0204/RTOS-data-acquisition)
 
 ### Wireless Connection using ESP32 with Ntp protocol
-- [Data Acquisition Module via ESP-NOW](https://github.com/Roey0204/ESP32-Wireless-Connection)
+- [ESP32 Pairing Module via ESP-NOW](https://github.com/Roey0204/ESP32-Wireless-Connection)
 
