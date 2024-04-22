@@ -1,5 +1,5 @@
 # My Portfolio
-## About Me - Software And Data Analysis
+## About Me
 ***************************************************************************
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/Roey0204/My-Portfolio/blob/main/img/myphoto.png" width="500" height="227">
@@ -14,8 +14,6 @@ In my final year, I chose to delve deeper by undertaking a project in FPGA becau
 i) Digital Logic Design: Understanding how to design digital circuits using Verilog or VHDL, including combinational and sequential logic, finite state machines, and other digital components.
 
 ii) FPGA Architecture and Tools: Familiarizing myself with the architecture of the FPGA i am using, as well as the development tools provided by the FPGA vendor (e.g.Intel Quartus Prime). This includes understanding synthesis, place and route, and timing analysis.
-
-iii) Embedded Systems: Integrating soft or hard processors into FPGA designs, designing interfaces with peripherals, and understanding how to program and debug embedded systems on FPGAs.
 
 For more details on the final year project can refer to the Repository below.
 
