@@ -32,7 +32,7 @@ In my free time, I enjoy to exploring new data analysis tools and techniques. I 
 
 ### My Skillset more focusing on:
 
-<img src="https://github.com/Roey0204/My-Portfolio/blob/main/img/profile.png" alt="Image1" width ="700" height= "412">
+<img src="https://github.com/Roey0204/My-Portfolio/blob/main/img/profile.png" alt="Image1">
 
 This is a repository to showcase skills, share projects and track my progress in software / Data Science related topics.
 
