@@ -28,7 +28,7 @@ Throughout the years, I have developed a strong foundation through participate s
 
 In my free time, I enjoy to exploring new data analysis tools and techniques. I am always looking for opportunities to expand my knowledge and skills in software/data relevant whether from working at daily job or independently
 
-### My Skillset more focusing on:
+### My Skillset relevant to:
 
 <img src="https://github.com/Roey0204/My-Portfolio/blob/main/img/profile.png" alt="Image1">
 
