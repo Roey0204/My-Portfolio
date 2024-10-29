@@ -50,6 +50,9 @@ This is a repository to showcase skills, share projects and track my progress in
 ### Develop Full Stack Web Concept by Using Flask (REST API)
 - [Movie Survey Form](https://github.com/Roey0204/Movie-Survey-Form-App)
 
+### Develop Dashboard (PyQt & Plotly)
+- [Data Analysis Dashboard](https://github.com/Roey0204/Movie-Survey-Form-App)
+
 ## C/C++
 
 ### Sensor data acquisition Module with RTOS
