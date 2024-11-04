@@ -51,7 +51,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Movie Survey Form](https://github.com/Roey0204/Movie-Survey-Form-App)
 
 ### Develop Dashboard (PyQt & Plotly)
-- [Data Analysis Dashboard](https://github.com/Roey0204/Data-Analysis-Dashboard/tree/main)
+- [Data Analysis Dashboard](https://github.com/Roey0204/QuickTrace)
 
 ## C/C++
 
